@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Storyteller",
+  "base_artist": "TRUE",
+  "createdAt": "2026-01-12T13:18:34.535696Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Storyteller",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/01_Storyteller_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Storyteller",
+      "artist": "Trapt",
+      "has_synced": false,
+      "path": "select/02_Storyteller_Trapt.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Storyteller",
+      "artist": "Patricia Barber",
+      "has_synced": false,
+      "path": "select/03_The_Storyteller_Patricia_Barber.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Storyteller",
+      "artist": "Real Friends",
+      "has_synced": true,
+      "path": "select/04_Storyteller_Real_Friends.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Storyteller (Reimagined)",
+      "artist": "Real Friends",
+      "has_synced": false,
+      "path": "select/05_Storyteller_(Reimagined)_Real_Friends.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Storyteller",
+      "artist": "Such Gold",
+      "has_synced": true,
+      "path": "select/06_Storyteller_Such_Gold.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Storyteller",
+      "artist": "Comadre",
+      "has_synced": false,
+      "path": "select/07_Storyteller_Comadre.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Storyteller (Audiotree Live Version)",
+      "artist": "Such Gold",
+      "has_synced": false,
+      "path": "select/08_Storyteller_(Audiotree_Live_Version)_Such_Gold.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Storyteller",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/09_The_Storyteller_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Storyteller",
+      "artist": "Médine",
+      "has_synced": true,
+      "path": "select/10_Storyteller_Médine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Storyteller",
+      "artist": "DDG",
+      "has_synced": true,
+      "path": "select/11_Storyteller_DDG.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Storyteller",
+      "artist": "DDG",
+      "has_synced": true,
+      "path": "select/12_Storyteller_DDG.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Storyteller",
+      "artist": "Daisuke Ishiwatari feat. Naoki Hashimoto",
+      "has_synced": true,
+      "path": "select/13_Storyteller_Daisuke_Ishiwatari_feat._Naoki_Hashimoto.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Storyteller",
+      "artist": "Daisuke Ishiwatari/Naoki Hashimoto",
+      "has_synced": true,
+      "path": "select/14_Storyteller_Daisuke_Ishiwatari_Naoki_Hashimoto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Storyteller (feat. Jamie Grace)",
+      "artist": "Morgan Harper Nichols feat. Jamie Grace",
+      "has_synced": true,
+      "path": "select/15_Storyteller_(feat._Jamie_Grace)_Morgan_Harper_Nichols_feat._Jamie_Grace.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Storyteller",
+      "artist": "TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_Storyteller_TRUE.txt"
+    }
+  ]
+}
